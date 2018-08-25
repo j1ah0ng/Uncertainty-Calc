@@ -21,10 +21,16 @@ int main(){
 
 	istringstream sort(input);
 
-	for (string input; sort >> input;) {
+	for (string input; sort >> input;) { //sort string into parts
 		input_sorted.push_back(input);
 	}
-	for (int k = 0; input_sorted.size() > k; k++) {
+
+	/*
+		Array indices 0,2,4,6 are integers. Indices 1, 5 
+		are filler. Indice 3 is the operation index.
+	*/
+
+	for (int k = 0; input_sorted.size() > k; k++) { //debug
 		cout << input_sorted[k] << endl;
 	}
 
