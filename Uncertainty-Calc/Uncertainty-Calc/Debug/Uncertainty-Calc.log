@@ -1,8 +1,0 @@
-﻿  Uncertainty-Calc.cpp
-c:\users\rahul\documents\github\uncertainty-calc\uncertainty-calc\uncertainty-calc\uncertainty-calc.cpp(27): warning C4018: '>': signed/unsigned mismatch
-c:\users\rahul\documents\github\uncertainty-calc\uncertainty-calc\uncertainty-calc\uncertainty-calc.cpp(39): warning C4700: uninitialized local variable 'result' used
-c:\users\rahul\documents\github\uncertainty-calc\uncertainty-calc\uncertainty-calc\uncertainty-calc.cpp(49): warning C4700: uninitialized local variable 'result' used
-c:\users\rahul\documents\github\uncertainty-calc\uncertainty-calc\uncertainty-calc\uncertainty-calc.cpp(44): warning C4700: uninitialized local variable 'result' used
-c:\users\rahul\documents\github\uncertainty-calc\uncertainty-calc\uncertainty-calc\uncertainty-calc.cpp(54): warning C4700: uninitialized local variable 'result' used
-  Uncertainty-Calc.vcxproj -> C:\Users\Rahul\Documents\GitHub\Uncertainty-Calc\Uncertainty-Calc\Debug\Uncertainty-Calc.exe
-  Uncertainty-Calc.vcxproj -> C:\Users\Rahul\Documents\GitHub\Uncertainty-Calc\Uncertainty-Calc\Debug\Uncertainty-Calc.pdb (Full PDB)
